@@ -1,6 +1,4 @@
 # struct-sach
-Dưới đây là nội dung mô tả mã nguồn của bạn dưới dạng **Markdown**. Mình đã tối ưu hóa cấu trúc để bạn có thể sao chép vào các trình đọc MD (như GitHub, Obsidian, hay VS Code) một cách chuyên nghiệp nhất.
-
 ---
 
 # Báo Cáo Phân Tích Mã Nguồn Quản Lý Sách (C Language)
